@@ -305,7 +305,7 @@ class BudgetApp:
         self.btn_reports = self.make_sidebar_button("📊 Reports", self.show_reports_page)
         self.btn_settings = self.make_sidebar_button("⚙ Settings", self.show_settings_page)
 
-        tk.Label(self.sidebar, text="Made by shri vardhan 💖",
+        tk.Label(self.sidebar,
                  font=("Segoe UI", 10, "bold"),
                  bg=self.theme["SIDEBAR"], fg=self.theme["PURPLE"]).pack(side="bottom", pady=15)
 
