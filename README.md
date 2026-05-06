@@ -60,7 +60,3 @@ It helps users manage income, expenses, monthly budgets, reports, and generate P
 - SQLite3 (Database)
 - Matplotlib (Charts)
 
----
-
-## Project Structure
-
