@@ -4,6 +4,9 @@ PocketPlanner is a modern finance tracking desktop application built using **Pyt
 It helps users manage income, expenses, monthly budgets, reports, and generate PDF summaries.
 
 ---
+![Dashboard](images/dashboard.png)
+![Reports](images/reports.png)
+![Charts](images/charts.png)
 
 ##  Features
 
